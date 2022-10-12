@@ -1,5 +1,5 @@
-print("everything everything")
-print("okay!")
+print("everything NOT everything")
+print("NOT okay!")
 
 
 
