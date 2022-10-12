@@ -1,3 +1,8 @@
+print("everything everything")
+print("okay!")
+
+
+
 #from typing import Any
 
 print('Welcome in Text Analyzer')
